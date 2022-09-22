@@ -1,0 +1,4 @@
+main{color:red;background-color:blue}
+.header{color:whitesmoke;background-color:black; background-image: url(image/1642464858_28-abrakadabra-fun-p-litl-poni-fon-61.jpg);margin: 50px;}
+body{--bgcolor:skyblue}
+.footer{background-color:(--bgcolor)}
